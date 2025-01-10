@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+java -XX:+ShowCodeDetailsInExceptionMessages -cp ./target/classes com.estebandev.App
